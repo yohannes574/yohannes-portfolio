@@ -1,0 +1,18 @@
+
+  [32m[1mVITE[22m v5.4.21[39m  [2mready in [0m[1m2446[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m5180[22m/[39m
+[2m  [32m➜[39m  [1mNetwork[22m[2m: use [22m[1m--host[22m[2m to expose[22m
+[2m8:09:02 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/About.jsx, /src/index.css[22m
+[2m8:17:23 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css, /src/components/Navbar.jsx, /src/components/About.jsx, /src/components/Hero.jsx, /src/components/Footer.jsx, /src/components/Contact.jsx[22m
+[2m8:48:54 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css, /src/components/Projects.jsx[22m
+[2m8:54:43 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css, /src/components/Navbar.jsx, /src/components/About.jsx, /src/components/Hero.jsx, /src/components/Footer.jsx, /src/components/Contact.jsx[22m
+[2m10:27:54 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Contact.jsx, /src/index.css[22m
+[2m10:29:16 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Contact.jsx, /src/index.css[22m
+[2m10:30:36 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Contact.jsx, /src/index.css[22m
+[2m10:32:14 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Contact.jsx, /src/index.css[22m
+[2m10:37:31 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Contact.jsx, /src/index.css[22m
+[2m10:43:07 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Contact.jsx, /src/index.css[22m
+[2m10:54:56 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Hero.jsx, /src/index.css[22m
+[2m1:29:30 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css, /src/components/Projects.jsx[22m
+[2m1:30:08 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css, /src/components/Projects.jsx[22m
