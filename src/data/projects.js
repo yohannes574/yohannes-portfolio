@@ -17,8 +17,8 @@ export const projects = [
       'A complete management system for gyms: member records, subscription plans, check-ins, trainer schedules and payment tracking, wrapped in a clean admin dashboard.',
     technologies: ['React', 'Node.js', 'MongoDB'],
     image: '/images/gym-plateform.jpg',
-    github: 'https://github.com/yohannes/gym-management',
-    liveDemo: 'https://gym.yohannes.dev',
+    github: 'https://github.com/yohannes574/gym-management',
+    liveDemo: 'https://gym-management-pied-seven.vercel.app',
     featured: false,
   },
   {
